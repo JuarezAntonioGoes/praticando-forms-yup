@@ -1,0 +1,43 @@
+[
+  {
+    "label": "Nome:",
+    "type": "text",
+    "name": "nome"
+  },
+  {
+    "label": "Email:",
+    "type": "email",
+    "name": "email"
+  },
+  {
+    "label": "Confirmar email:",
+    "type": "email",
+    "name": "confEmail"
+  },
+  {
+    "label": "Experiências:",
+    "type": "text",
+    "name": "experiencia"
+  },
+  {
+    "label": "Objetivo:",
+    "type": "text",
+    "name": "objetivo"
+  },
+  {
+    "label": "Data de nascimento:",
+    "type": "text",
+    "name": "nascimento",
+    "placeHolder": "DD/MM/AAAA"
+  },
+  {
+    "label": "Senha:",
+    "type": "password",
+    "name": "senha"
+  },
+  {
+    "label": "Confirmar senha:",
+    "type": "password",
+    "name": "confSenha"
+  }
+]
